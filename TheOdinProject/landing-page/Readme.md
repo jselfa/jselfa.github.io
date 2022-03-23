@@ -1,5 +1,7 @@
 The Odin Project Landing Page
 
+URL: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
+
 Assignment:
 
     1.Download the design images and take a look at what you’re going to be creating here. Image One (Full Design), Image Two (Color and Fonts) The font that’s being used in the images is roboto. Hero text is the statement that appears at the top of a web page.
